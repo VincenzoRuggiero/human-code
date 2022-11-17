@@ -74,4 +74,27 @@ valuzatione stilografica
                      ALTRIMENTI Compra una Gift card Amazon da 50 euro.
 
 
+
+
+---------- esercizio generalizzato --------------
+lista prodotti da valutare{
+    prodotto 1
+    prodotto 2
+    prodotto 3
+    prodotto 4
+    prodotto 5
+    prodotto 6
+    prodotto 7
+    prodotto 8
+    prodotto 9
+    prodotto 10
+    prodotto 11
+    prodotto 12
+    prodotto 13
+    prodotto 14
+    prodotto 15
+    prodotto 16 = gift card
+}
+
+
 Print Auguri Silvia
